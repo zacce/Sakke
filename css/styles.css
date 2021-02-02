@@ -25,19 +25,19 @@ h3 {
 }
 
 .top-container {
-  background-color: #E4F9F5;
+  background-color: #EAF6F6;
   position: relative;
   padding-top: 100px;
 }
 
 .middle-container {
-  background-color: #E4F9F5;
+ 
   position:relative;
   padding-top: 100px;
 }
 
 .bottom-container {
-  background-color:#E4F9F5;
+  background-color:#66BFBF;
   position:relative;
 }
 
@@ -50,9 +50,6 @@ h3 {
 .code-skill-desc {
   clear: left
 }
-.code-chill-desc {
-  clear: right
-}
 
 .code-img {
   width: 25%;
@@ -60,14 +57,18 @@ h3 {
   margin-right: 30px;
 }
 .chilli-img {
-  width: 25%;
+  width: 40%;
   float:right;
   margin-left: 30 px;
-  padding-top: 100 px;
+  
 }
 
 .pro {
   text-decoration: underline;
+  
+}
+
+.contact-me {
   
 }
 
